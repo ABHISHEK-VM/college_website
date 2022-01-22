@@ -1,0 +1,52 @@
+* {
+  font-family: "Poppins", Helvetica, sans-serif;
+  color: #081343;
+
+  line-height: 1.7;
+}
+
+.college-name-heading {
+  font-weight: 700;
+}
+
+.side-image {
+  width: 1000px;
+  object-fit: cover;
+}
+
+.navbar {
+  flex-wrap: nowrap;
+  color: #081343;
+}
+
+.btn-primary {
+  background-color: #081343 !important;
+
+  border-color: #081343 !important;
+}
+
+.btn-outline-info {
+  color: #081343 !important;
+  border-color: #081343 !important;
+  border-width: thick;
+}
+
+.btn-outline-info:hover {
+  background-color: #081343 !important;
+  color: #fff !important;
+}
+
+.card:hover {
+  box-shadow: 0px 0px 15px 7px #ebebeb;
+  transform: scale(1.03);
+  transition-duration: 2000;
+}
+
+.card-text {
+  font-size: 15px;
+  display: -webkit-box;
+  /* max-width: 200px; */
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
