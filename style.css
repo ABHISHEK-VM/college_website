@@ -50,3 +50,17 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+.footer-gecb {
+  background-color: #060b1f;
+}
+
+.fab,
+.btn-outline-light {
+  color: #fff;
+}
+
+.fab:hover,
+.btn-outline-light:hover {
+  color: #000;
+}
