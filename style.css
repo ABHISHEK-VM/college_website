@@ -64,3 +64,9 @@
 .btn-outline-light:hover {
   color: #000;
 }
+
+.rounded-circle {
+  max-width: 200;
+  max-height: 200;
+  object-fit: cover;
+}
